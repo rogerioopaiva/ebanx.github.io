@@ -1,1 +1,1 @@
-# ebanx.github.io
+# POC - Subdomain Takeover ebanx.github.io
